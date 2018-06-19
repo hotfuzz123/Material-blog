@@ -1,0 +1,11 @@
+:host {
+  top: 0;
+  left: 0;
+
+  &__link {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+  }
+}

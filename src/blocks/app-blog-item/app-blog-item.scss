@@ -1,0 +1,13 @@
+:host {
+
+  &__header {
+    padding: 0 16px;
+    background: rgb(63,81,181);
+    color: #fff;
+  }
+
+  &__desc {
+    padding: 16px;
+    border-bottom: 1px solid #eee;
+  }
+}
